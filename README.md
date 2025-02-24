@@ -29,17 +29,17 @@
 - 클라이밍을 취미로 하는 사람들을 위해
 - 더 편하게 클라이밍을 즐길 수 있도록
 
-## 👫대상
+## 👫 대상
 - 평소 클라이밍을 즐겨하는 사람
 - 자신의 클라이밍 기록을 기록하는 사람
 - 자신의 기록 및 성장을 눈으로 확인하고 싶은 사람
  
-## 🎉기대 효과
+## 🎉 기대 효과
 - 클라이밍장 정보를 더 쉽게 조회 
 - 기록 저장을 자동으로 보기 쉽게
 - 영상 쵤영을 더 쉽고 간편하게
 
-## 🔉주요 기능
+## 🔉 주요 기능
 📏 이미지를 통한 윙스팬 측정
 
 🎬 모션인식 + 기록 자동화
@@ -50,7 +50,7 @@
 
 
 
-## 🔧기술 스택
+## 🔧 기술 스택
 ### 백엔드
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
