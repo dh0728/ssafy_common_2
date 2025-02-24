@@ -121,6 +121,14 @@
 </center>
 <span>해당 프로필 사진을 클릭하면 해당 팀원의 깃허브로 이동합니다.</span>
 
+## 📁 프로젝트 산출물 
+<details>
+  <summary>와이어프레임</summary>
+  📌 와이어프레임 설명 내용
+</details>
+
+
+
 ## 🤝 협업 및 프로젝트 진행 상황 관리 방식
 <center>
     <img src="./exec/readme_assets/jira.png" />
@@ -143,6 +151,7 @@
 프로젝트를 진행하면서 필요한 명세서 및 기록들을 Notion 탬플릿을 활용하여 공유하였습니다.
 </pre>
 <span>Notion 이미지 클릭시 해당 노션 페이지로 이동합니다.</span>
+
 
 ## 🔍 브랜치 전략
 
