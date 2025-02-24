@@ -126,7 +126,18 @@
   <summary>와이어프레임</summary>
   📌 와이어프레임 설명 내용
 </details>
-
+<details>
+  <summary>ERD</summary>
+  📌 와이어프레임 설명 내용
+</details>
+<details>
+  <summary>API 명세서</summary>
+  📌 와이어프레임 설명 내용
+</details>
+<details>
+  <summary>아키텍처</summary>
+  📌 와이어프레임 설명 내용
+</details>
 
 
 ## 🤝 협업 및 프로젝트 진행 상황 관리 방식
