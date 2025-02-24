@@ -124,7 +124,32 @@
 ## 📁 프로젝트 산출물 
 <details>
   <summary>와이어프레임</summary>
-  📌 와이어프레임 설명 내용
+
+
+### 1. 로그인
+
+#### 1.1 로그인
+<img src="./images/프레임_로그인.jpg">
+
+
+### 캘린더
+
+<img src="./images/프레임_캘린더.jpg">
+
+### 마이페이지
+
+<img src="./images/프레임_마이.jpg">
+
+<img src="./images/프레임_마이_윙스팬.jpg">
+
+### 클라이밍 조회
+
+### 영상
+
+### 앨범
+
+### 통계
+
 </details>
 <details>
   <summary>ERD</summary>
