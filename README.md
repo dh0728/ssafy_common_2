@@ -128,15 +128,32 @@
 </details>
 <details>
   <summary>ERD</summary>
-  📌 와이어프레임 설명 내용
+  <img src="./images/erd.png">
 </details>
 <details>
   <summary>API 명세서</summary>
-  📌 와이어프레임 설명 내용
+  <img src="./images/api1.png">
+  <br>
+ 
+  <img src="./images/api2.png">
+  <br>
+  
+  <img src="./images/api3.png">
+  <br>
+  <img src="./images/api4.png">
+  <br>
+ 
+  <img src="./images/api5.png">
+  <br>
+  
+  <img src="./images/api6.png">
+  <br>
+  
+  <img src="./images/api7.png">
 </details>
 <details>
   <summary>아키텍처</summary>
-  📌 와이어프레임 설명 내용
+  <img src="./images/api7.png">
 </details>
 
 
