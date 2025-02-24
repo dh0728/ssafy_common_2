@@ -131,7 +131,7 @@
 #### 1.1 로그인
 <img src="./images/프레임_로그인.jpg" width=34%>
 
-<img src="./images/프레임_회원가입입.jpg" width=34%>
+<img src="./images/프레임_회원가입.jpg" width=34%>
 
 
 ### 캘린더
