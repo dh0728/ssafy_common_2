@@ -160,41 +160,41 @@
 
 ### 📌 1. 로그인
 - 일반 로그인
-- 소셜 로그인(카카오오)
 <img src="./images/일반로그인.gif">
 
-<img src="./images/소셜.gif">
+- 소셜 로그인(카카오)
+<img src="./images/소셜.gif" width=34% >
 
 
 ### 📌 2. 캘린더
 - 날짜별 클라이밍 기록을 확인 할 수 있습니다.
-<img src="./images/캘린더.gif">
+<img src="./images/캘린더.gif"  width=34%>
 
 ### 📌 3. 마이페이지
 - 개인 정보 수정 및 리치를 측정할 수 있습니다.
 
-<img src="./images/윙스팬.gif">
+<img src="./images/윙스팬.gif" width=34%>
 
 ### 📌 4. 클라이밍장 조회
 - 클라이밍장 상세 정보를 조회 할 수 있습니다.
 
-<img src="./images/클라이.gif">
+<img src="./images/클라이.gif"  width=34%>
 
 ### 📌 5. 클라이밍장 해금
 - 클라이밍장에 일정거리 이내에 있을시 클라이밍장이 해금됩니다.
 
-<img src="./images/챌린지.gif">
+<img src="./images/챌린지.gif" width=34%>
 
 ### 📌 6. 영상
 - 모션인식을 통해 터치없이도 영상을 촬영하고 저장할 수 있습니다다
 
-<img src="./images/영상1.gif">
+<img src="./images/영상1.gif"  width=34%>
 
-<img src="./images/영상2.gif">
+<img src="./images/영상2.gif"  width=34%>
 
 ### 📌 7. 통계
 - 년, 월, 주별로 기록 통계를 확인할 수 있습니다.
-<img src="./images/통계.gif">
+<img src="./images/통계.gif" width=34%>
 
 ## 🤝 협업 및 프로젝트 진행 상황 관리 방식
 <center>
