@@ -129,31 +129,52 @@
 ### 1. 로그인
 
 #### 1.1 로그인
-<img src="./images/프레임_로그인.jpg">
+<img src="./images/프레임_로그인.jpg" width=34%>
+
+<img src="./images/프레임_회원가입입.jpg" width=34%>
 
 
 ### 캘린더
 
-<img src="./images/프레임_캘린더.jpg">
+<img src="./images/프레임_캘린더.jpg" width=34%>
+
+<img src="./images/프레임_캘린더_상세.jpg" width=34%>
 
 ### 마이페이지
 
-<img src="./images/프레임_마이.jpg">
+<img src="./images/프레임_마이.jpg" width=34%>
 
-<img src="./images/프레임_마이_윙스팬.jpg">
+<img src="./images/프레임_마이_윙스팬.jpg" width=34%>
 
 ### 클라이밍 조회
 
+<img src="./images/프레임_클라이밍_조회.jpg" width=34%>
+
+
+<img src="./images/프레임_클라이밍_상세.jpg" width=34%>
+
+<img src="./images/프레임_클라이밍_3d.jpg" width=34%>
+
 ### 영상
+
+<img src="./images/프레임_영상1.jpg" width=34%>
 
 ### 앨범
 
+<img src="./images/프레임_앨범.jpg" width=34%>
+
 ### 통계
+
+<img src="./images/프레임_통계3.jpg" width=34%>
+
+<img src="./images/프레임_통계2.jpg" width=34%>
+
+<img src="./images/프레임_통계1.jpg" width=34%>
 
 </details>
 <details>
   <summary>ERD</summary>
-  <img src="./images/erd.png">
+  <img src="./images/erd.png" >
 </details>
 <details>
   <summary>API 명세서</summary>
