@@ -15,7 +15,7 @@
 > 
 > ## 📁[프로젝트 산출물](#-프로젝트-산출물)
 >
-> ## <a href="https://github.com/dh0728/ssafy_common_2/blob/master/README.md#%EF%B8%8F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%99%94%EB%A9%B4">🖼️ 서비스 화면</a>
+> ## <a href="https://github.com/dh0728/ssafy_common_2/blob/master/README.md#%EF%B8%8F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%99%94%EB%A9%B4-1">🖼️ 서비스 화면</a>
 >
 > ## 🤝[협업 및 프로젝트 진행 상황 관리 방식](#-협업-및-프로젝트-진행-상황-관리-방식)
 >
