@@ -15,6 +15,8 @@
 > 
 > ## 📁[프로젝트 산출물](#-프로젝트-산출물)
 >
+> ## 🖼️ [서비스 화면](#-서비스-화면면)
+>
 > ## 🤝[협업 및 프로젝트 진행 상황 관리 방식](#-협업-및-프로젝트-진행-상황-관리-방식)
 >
 > ## 🔍[브랜치 전략](#-브랜치-전략)
@@ -126,7 +128,7 @@
   <summary>와이어프레임</summary>
 
 
-### 1. 로그인
+### 🔒 1. 로그인
 
 #### 1.1 로그인
 <img src="./images/프레임_로그인.jpg" width=34%>
@@ -134,36 +136,44 @@
 <img src="./images/프레임_회원가입입.jpg" width=34%>
 
 
-### 캘린더
+### 📅 캘린더
 
 <img src="./images/프레임_캘린더.jpg" width=34%>
 
 <img src="./images/프레임_캘린더_상세.jpg" width=34%>
 
-### 마이페이지
+### 😆 마이페이지
 
 <img src="./images/프레임_마이.jpg" width=34%>
 
 <img src="./images/프레임_마이_윙스팬.jpg" width=34%>
 
-### 클라이밍 조회
+### 🔎 클라이밍 조회
 
 <img src="./images/프레임_클라이밍_조회.jpg" width=34%>
-
 
 <img src="./images/프레임_클라이밍_상세.jpg" width=34%>
 
 <img src="./images/프레임_클라이밍_3d.jpg" width=34%>
 
-### 영상
+### 🎸 챌린지
+
+<img src="./images/프레임_챌린지.png" width=34%>
+
+<img src="./images/프레임_챌린지2.png" width=34%>
+
+<img src="./images/프레임_챌린지3.png" width=34%>
+
+
+### 📽️ 영상
 
 <img src="./images/프레임_영상1.jpg" width=34%>
 
-### 앨범
+### 🎞️ 앨범
 
 <img src="./images/프레임_앨범.jpg" width=34%>
 
-### 통계
+### 📊 통계
 
 <img src="./images/프레임_통계3.jpg" width=34%>
 
@@ -202,7 +212,7 @@
   <img src="./images/api7.png">
 </details>
 
-## 서비스 화면
+## 🖼️ 서비스 화면
 
 ### 📌 1. 로그인
 - 일반 로그인
@@ -232,7 +242,12 @@
 <img src="./images/챌린지.gif" width=34%>
 
 ### 📌 6. 영상
-- 모션인식을 통해 터치없이도 영상을 촬영하고 저장할 수 있습니다다
+- 모션인식을 통해 터치없이도 영상을 촬영하고 저장할 수 있습니다.
+- 음성 안내에 따라 색상선택 및 촬영을 시작합니다. 
+- 오른손 들기 : 자동촬영시작
+- 박수 : 색상 선택
+- 두손들기 : 촬영 시작
+- O or X : 성공, 실패 선택
 
 <img src="./images/영상1.gif"  width=34%>
 
