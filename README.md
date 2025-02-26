@@ -226,6 +226,10 @@
   <summary>아키텍처</summary>
   <img src="./images/aki.png">
 </details>
+<details>
+  <summary>UCC</summary>
+  <a href="https://youtu.be/1qiozCS53VE">UCC</a>
+</details>
 
 
 ## 🖼️ 서비스 화면
