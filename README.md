@@ -209,7 +209,7 @@
 </details>
 <details>
   <summary>아키텍처</summary>
-  <img src="./images/api7.png">
+  <img src="./images/aki.png">
 </details>
 
 
